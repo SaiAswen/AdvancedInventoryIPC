@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1746192470 source:c:\users\admin\onedrive\documents\embedded c\project\project(2)\inventorywriter\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
